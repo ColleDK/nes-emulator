@@ -1,0 +1,5 @@
+C:/Users/willi/source/repos/nes-emulator/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/willi/source/repos/nes-emulator/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/willi/source/repos/nes-emulator/out/build/x64-Debug (default)/nes-emulator/CMakeFiles/nes-emulator.dir
+C:/Users/willi/source/repos/nes-emulator/out/build/x64-Debug (default)/nes-emulator/CMakeFiles/edit_cache.dir
+C:/Users/willi/source/repos/nes-emulator/out/build/x64-Debug (default)/nes-emulator/CMakeFiles/rebuild_cache.dir
